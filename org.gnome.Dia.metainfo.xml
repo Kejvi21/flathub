@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Bilal Elmoussaoui 2019 <bilal.elmoussaoui@gnome.org> -->
+<component type="desktop-application">
+  <id>org.gnome.Dia</id>
+  <metadata_license>CC0</metadata_license>
+  <project_license>GPL-3.0+</project_license>
+  <name>Dia</name>
+  <name xml:lang="zh_TW">Dia</name>
+  <name xml:lang="zh_HK">Dia</name>
+  <name xml:lang="zh_CN">Dia</name>
+  <name xml:lang="uk">Діа</name>
+  <name xml:lang="tr">Dia</name>
+  <name xml:lang="sv">Dia</name>
+  <name xml:lang="sr@latin">Dia</name>
+  <name xml:lang="sr">Диа</name>
+  <name xml:lang="sl">Dia</name>
+  <name xml:lang="ru">Dia</name>
+  <name xml:lang="ro">Dia</name>
+  <name xml:lang="pt_BR">Dia</name>
+  <name xml:lang="pt">Dia</name>
+  <name xml:lang="pl">Dia</name>
+  <name xml:lang="pa">ਡਾਈ</name>
+  <name xml:lang="oc">Dia</name>
+  <name xml:lang="nb">Dia</name>
+  <name xml:lang="lv">Dia</name>
+  <name xml:lang="lt">Dia</name>
+  <name xml:lang="is">Dia</name>
+  <name xml:lang="id">Dia</name>
+  <name xml:lang="hu">Dia</name>
+  <name xml:lang="hr">Dia</name>
+  <name xml:lang="he">‏Dia</name>
+  <name xml:lang="gl">Dia</name>
+  <name xml:lang="fa">دیا</name>
+  <name xml:lang="eu">Dia</name>
+  <name xml:lang="es">Dia</name>
+  <name xml:lang="eo">Dia</name>
+  <name xml:lang="en_GB">Dia</name>
+  <name xml:lang="el">Dia</name>
+  <name xml:lang="de">Dia</name>
+  <name xml:lang="da">Dia</name>
+  <name xml:lang="cs">Dia</name>
+  <name xml:lang="ca@valencia">Dia</name>
+  <name xml:lang="ca">Dia</name>
+  <name xml:lang="bs">Dia</name>
+  <summary>Dia is a program for drawing diagrams</summary>
+  <summary xml:lang="zh_CN">Dia 是一个用于绘制图表的程序</summary>
+  <summary xml:lang="uk">Dia — програма для малювання діаграм.</summary>
+  <summary xml:lang="tr">Dia bir diyagram çizim programıdır</summary>
+  <summary xml:lang="sv">Dia är ett program för att rita diagram</summary>
+  <summary xml:lang="sr">Диа је програм за цртање дијаграма</summary>
+  <summary xml:lang="sl">Dia je program za risanje diagramov</summary>
+  <summary xml:lang="ru">Dia это приложение для рисования структурированных диаграмм</summary>
+  <summary xml:lang="ro">Dia este un program pentru desenat diagrame</summary>
+  <summary xml:lang="pt_BR">Dia é um programa para desenhar diagramas</summary>
+  <summary xml:lang="id">Dia adalah program untuk menggambar diagram</summary>
+  <summary xml:lang="hu">A Dia egy diagramok rajzolásához való program</summary>
+  <summary xml:lang="eu">Dia diagramak marrazteko programa bat da</summary>
+  <summary xml:lang="es">Dia es un programa para dibujar diagramas</summary>
+  <summary xml:lang="eo">Dia estas programo por desegni diagramojn</summary>
+  <summary xml:lang="el">Το Dia είναι ένα πρόγραμμα σχεδίασης διαγραμμάτων</summary>
+  <summary xml:lang="da">Dia er et program til at tegne diagrammer</summary>
+  <summary xml:lang="cs">Dia je aplikace pro kreslení strukturovaných diagramů</summary>
+  <summary xml:lang="ca">Dia és un programa per a dibuixar diagrames</summary>
+  <description>
+    <p>Dia is a GTK+ based diagram creation program for GNU/Linux, MacOS X, Unix, and Windows, and is released under the GPL license.</p>
+    <p xml:lang="zh_CN">Dia 是适用于 GNU/Linux、MacOS X、Unix 和 Windows 的基于 GTK+ 的图表制作程序，并在 GPL 许可证下发布。</p>
+    <p xml:lang="uk">Dia — програма на основі GTK+ для створення діаграм для GNU/Linux, MacOS X, Unix та Windows. Програму випущено за умов дотримання GPL.</p>
+    <p xml:lang="tr">Dia, GNU/Linux, MacOS X, Unix ve Windows için GTK tabanlı bir diyagram oluşturma programıdır ve GPL lisansı ile yayınlanmıştır.</p>
+    <p xml:lang="sv">Dia är ett GTK+-baserat program för att skapa diagram för GNU/Linux, MacOS X, Unix och Windows, och är släppt under licensen GPL.</p>
+    <p xml:lang="sr">Диа је програм за стварање дијаграма заснован на Гтк+ за Гну/Линукс, МекОС Х, Јуникс и Виндоуз, и издата је под ОЈЛ лиценцом.</p>
+    <p xml:lang="sl">Dia je na GTK+ temelječi program za ustvarjanja diagramov za sisteme GNU/Linux, MacOS X, Unix in Windows, in je izdan pod dovoljenjem GPL.</p>
+    <p xml:lang="ru">Dia это приложение для создания структурированных диаграмм, основанное на GTK+ для GNU/Linux, MacOS X, Unix, и Windows, публикуется под лицензией GPL.</p>
+    <p xml:lang="ro">Dia este un program de creare a diagramelor bazat pe GTK+ pentru GNU/Linux, MacOS X, Unix, și Windows, și este lansat sub licența GPL.</p>
+    <p xml:lang="pt_BR">Dia é um programa de criação de diagramas baseado em GTK+ para GNU/Linux, MacOS X, Unix e Windows, e é lançado sob a licença GPL.</p>
+    <p xml:lang="id">Dia adalah program pembuatan diagram berbasis GTK+ untuk GNU/Linux, MacOS X, Unix, dan Windows, dan dirilis di bawah lisensi GPL.</p>
+    <p xml:lang="hu">A Dia egy GTK-alapú diagramkészítési program GNU/Linuxhoz, macOS-hez, Unixhoz és Windowshoz, és GPL licenc alatt kerül kiadásra.</p>
+    <p xml:lang="eu">Dia diagramak sortzeko programa bat da, GNU/Linux, MacOS , Unix eta Windows sistemetan dabilena eta GTK+ liburutegian oinarrituta dagoena, eta GPL lizentziarekin argitaratzen dena.</p>
+    <p xml:lang="es">Dia es un programa de creación de diagramas para GNU/Linux, MacOS X, Unix, y Windows basado en GTK+ y se publica bajo la licencia GPL.</p>
+    <p xml:lang="eo">Dia estas GTK+-bazita diagrama kreadprogramo por GNU/Linukso, MacOS X, Unikso, kaj Vindozo, kaj estas liberigita sub la GPL-licenco.</p>
+    <p xml:lang="el">Το Dia είναι ένα πρόγραμμα δημιουργίας διαγραμμάτων με βάση το GTK + για GNU/Linux, MacOS X, Unix και Windows και κυκλοφορεί με άδεια GPL.</p>
+    <p xml:lang="da">Dia er et GTK+-baseret program til oprettelse af diagrammer til GNU/Linux, MacOS X, Unix og Windows, og udgives under GPL-licensen.</p>
+    <p xml:lang="cs">Dia je aplikace na vytváření diagramů pro GNU/Linux, MacOS X, Unix a Windows. Je založená na GTK a vydávaná pod licencí GPL.</p>
+    <p xml:lang="ca">Dia és un programa de creació de diagrames basat en GTK+ per a GNU/Linux, MacOS X, Unix i Windows, i es distribueix sota la llicència GPL.</p>
+    <p>Dia is roughly inspired by the commercial Windows program 'Visio,' though more geared towards informal diagrams for casual use. It can be used to draw many different kinds of diagrams. It currently has special objects to help draw entity relationship diagrams, UML diagrams, flowcharts, network diagrams, and many other diagrams. It is also possible to add support for new shapes by writing simple XML files, using a subset of SVG to draw the shape.</p>
+    <p xml:lang="zh_CN">Dia 大致上受到 Windows 的商业程序“Visio”启发，但更适合于日常使用的非正式图表。它可以用于绘制多种不同类型的图表。当前拥有专门的对象来帮助绘制实体关系图、UML 图、流程图、网络图和其他许多图表。它也可以通过编写简单的 XML 文件来添加新形状，以及使用 SVG 的子集来绘制形状。</p>
+    <p xml:lang="uk">Найближчим зразком Dia є комерційна програма для Windows «Visio», але акцент у цій програмі зроблено на неформальні діаграми для повсякденного використання. Програмою можна скористатися для малювання діаграм багатьох різних типів. У поточній версії передбачено спеціальні об'єкти для зручного малювання діаграм залежностей сутностей, діаграм UML, блок-схем, мережевих діаграм та діаграм багатьох інших типів. Також можна додавати підтримку нових форма за допомогою написання простих файлів XML, у яких для малювання форми використовується підмножина команд SVG.</p>
+    <p xml:lang="tr">Dia, günlük kullanım için gayri resmi diyagramlara ağırlık vermesine rağmen, ticari Windows programı 'Visio'dan kabaca esinlenmiştir. Farklı diyagram türlerini çizmek için kullanılabilir. İlişkisi diyagramları, UML diyagramları, akış şemaları, ağ diyagramları ve diğer birçok diyagramı çizmeye yardımcı olacak özel nesneleri içerir. Basit XML dosyaları yazarak ve şekil çizmek için SVG alt kümesini kullanarak yeni şekiller için destek eklemek de mümkündür. </p>
+    <p xml:lang="sv">Dia har i stort inspirerats av det kommersiella Windows-programmet ”Visio”, men är mer inriktat på informella diagram för vardaglig användning. Det kan användas för att rita många olika sorters diagram. Det har för närvarande specialobjekt för att hjälpa till att rita entitetrelationsdiagram, UML-diagram, flödesdiagram, nätverksdiagram och många andra diagram. Det är också möjligt att lägga till stöd för nya former genom att skriva enkla XML-filer, med en delmängd av SVG för att rita formen.</p>
+    <p xml:lang="sr">Диа је инспирисана комерцијалним Виндоузовим програмом „Висио“, мада је више усмерена ка неформалним дијаграмима за случајну употребу. Може се користити за цртање различитих врста дијаграма. Тренутно има специјалне објекте који помажу у цртању дијаграма односа ентитета, УМЛ дијаграма, дијаграма тока, мрежних дијаграма и многих других дијаграма. Такође је могуће додати подршку за нове облике писањем једноставних ХМЛ датотека, користећи подскуп СВГ-а за цртање облика.</p>
+    <p xml:lang="sl">Dia je nastal po rahlem navdihu komercialnega programa za okolje Windows, imenovanem »Visio«, čeprav je bolj namenjen neformalnim diagramom za vsakodnevno rabo. Uporabimo ga lahko za številne vrste diagramov. Trenutno ima posebne predmete za pomoč pri risanju diagramov odnosov med entitetami, diagrame UML, diagrame poteka, omrežne diagrame in številne druge. Možno je tudi dodati podporo za nove like s pisanjem enostavnih datotek XML, tako da s podnaborom SVG izrišejo želeni lik.</p>
+    <p xml:lang="ru">Dia вдохновлена коммерческиой программой 'Visio' для Windows, однако больше направлена на создание менне формальных диаграм для общего пользования. Она может быть использована для создания множества типов диаграмм. На данный момент в составе есть специмальный объекты для создания диаграмм связей, UML диаграмм, блок-схем и множества других диаграмм. Так же есть возможность добавить поддержу новых форм путем напимания простых XML-файлов, используя подмножество SVG  для рисования этих форм.</p>
+    <p xml:lang="ro">Dia este aproximativ inspirat de programul Windows comercial „Visio”, deși este mai orientat spre diagrame informale pentru uz ocazional. Poate fi utilizat pentru a desena multe tipuri diferite de diagrame. În prezent, are obiecte speciale care ajută la desenarea diagramelor de relații ale entității, diagrame UML, organigrame, diagrame de rețea, și multe alte diagrame. Este, de asemenea, posibil să adăugați suport pentru forme noi prin scrierea de fișiere XML simple, utilizând un subset al SVG pentru a desena forma.</p>
+    <p xml:lang="pt_BR">Dia é mais ou menos inspirado no programa comercial do Windows “Visio”, embora mais voltado para diagramas informais para uso casual. Pode ser usado para desenhar muitos tipos diferentes de diagramas. Atualmente, ele possui objetos especiais para ajudar a desenhar diagramas de relacionamento de entidades, diagramas UML, fluxogramas, diagramas de rede e muitos outros diagramas. Também é possível adicionar suporte para novas formas gravando arquivos XML simples, usando um subconjunto de SVG para desenhar a forma.</p>
+    <p xml:lang="id">Dia secara kasar terinspirasi oleh program Windows komersial 'Visio', meskipun lebih diarahkan diagram informal untuk penggunaan kasual. Hal ini dapat digunakan untuk menggambar berbagai jenis diagram. Saat ini memiliki objek khusus untuk membantu menggambar diagram hubungan entitas, diagram UML, bagan alur, diagram jaringan, dan banyak diagram lainnya. Hal ini juga memungkinkan untuk menambahkan dukungan untuk bentuk baru dengan menulis berkas XML sederhana, menggunakan subset dari SVG untuk menggambar bentuk.</p>
+    <p xml:lang="hu">A Diát nagy vonalakban a „Visio” nevű windowsos kereskedelmi program inspirálta, de sokkal inkább alkalmi használatra készülő informális diagramok készítéséhez lett kialakítva. Számos különböző diagram készítéséhez használható. Jelenleg entitás-kapcsolati diagramok, UML diagramok, folyamatábrák, hálózati diagramok és számos más diagramhoz rendelkezik speciális objektumokkal. Egyéni alakzatok is hozzáadhatók egyszerű XML fájlok írásával: az alakzatokat az SVG részhalmazával lehet leírni.</p>
+    <p xml:lang="eu">Dia aplikazioa Microsoft Windowserako 'Visio' programa komertzialean dago inspiratuta, baina batez ere noizbehinka diagrama informalak sortzeko pentsatua dago. Diagrama mota anitz marraztu daitezke berarekin. Objektu bereziak ditu entitateen arteko erlazioak dituzten diagramak, UML diagramak, fluxu-diagramak, sare-diagramak eta beste hainbat motatakoak marrazteko. Forma berriak ere sortu daitezke XML fitxategi sinpleak sortuz, SVG espezifikazioaren azpimultzo bat erabiliz forma marrazteko.</p>
+    <p xml:lang="es">Dia está inspirado en el programa comercial «Visio» de Windows, aunque más orientado a diagramas informales para uso casual. Se puede usar para dibujar muchos tipos diferentes de diagramas. Actualmente tiene objetos especiales para ayudar a dibujar diagramas de relación de entidades, diagramas UML, diagramas de flujo, diagramas de red y muchos otros. También es posible agregar soporte para nuevas formas escribiendo archivos XML sencillos, usando un subconjunto de SVG para dibujar la forma.</p>
+    <p xml:lang="eo">Dia estas proksimume inspirita de la komerca Vindoza programo "Visio", kvankam pli orientita al neformalaj diagramoj por hazarda uzo. Ĝi povas esti uzata por desegni multajn malsamajn specojn de diagramoj. Ĝi nuntempe havas specialajn objektojn por helpi desegni entajn rilatdiagramojn, UML-diagramojn, fludiagramojn, retajn diagramojn kaj multajn aliajn diagramojn. Eblas ankaŭ aldoni subtenon por novaj formoj skribante simplajn XML-dosierojn, uzante subaron de SVG por desegni la formon.</p>
+    <p xml:lang="el">Η Dia εμπνέεται περίπου από το εμπορικό πρόγραμμα Windows «Visio», αν και προσανατολίζεται περισσότερο σε ανεπίσημα διαγράμματα για περιστασιακή χρήση. Μπορεί να χρησιμοποιηθεί για τη σχεδίαση διαφόρων ειδών διαγραμμάτων. Προς το παρόν διαθέτει ειδικά αντικείμενα για τη σχεδίαση διαγραμμάτων συσχετίσεων οντοτήτων, διαγράμματα UML, διαγράμματα ροής, διαγράμματα δικτύου και πολλά άλλα διαγράμματα. Είναι επίσης δυνατό να προσθέσετε υποστήριξη για νέα σχήματα γράφοντας απλά αρχεία XML, χρησιμοποιώντας ένα υποσύνολο SVG για να σχεδιάσετε το σχήμα.</p>
+    <p xml:lang="da">Dia er i store træk inspireret af det kommercielle Windows-program “Visio”, selvom det mere er rettet mod uformelle diagrammer til almindeligt brug. Det kan bruges til at tegne mange forskellige slags diagrammer. Det har i øjeblikket særlige objekter til at hjælpe med at tegne diagrammer med entitetrelationer, UML-diagrammer, rutediagrammer, netværksdiagrammer og mange andre diagrammer. Det er også muligt at tilføje understøttelse af nye figurer ved at skrive simple XML-filer med et undersæt af SVG til at tegne figuren.</p>
+    <p xml:lang="cs">Dia v základech vychází z komerčního programu Visio pro Windows, je však více zaměřena na neformální diagramy pro běžné použití. Můžete ji využívat ke kreslení mnoha různých typů diagramů. Má k dispozici speciální objekty, které vám pomohou s kreslením diagramů vyjadřujících vztahy entit, diagramů UML, vývojových diagramů, síťových diagramů a mnoha dalších. Zápisem souboru s jednoduchým XML, tvořeným podmnožinou SVG pro kreslení tvarů, je také možné přidat podporu pro nové tvary.</p>
+    <p xml:lang="ca">Dia està més o menys inspirat en el programa comercial de Windows «Visio», tot i que està més orientat a diagrames informals d'ús ocasional. Es pot utilitzar per a dibuixar molts tipus diferents de diagrames. Actualment compta amb objectes especials que ajuden a dibuixar diagrames de relacions d'entitats, diagrames UML, diagrames de flux, diagrames de xarxa i molts altres. També és possible afegir suport per a noves formes escrivint fitxers XML senzills i utilitzant un subconjunt d'SVG per a dibuixar la forma.</p>
+    <p>It can load and save diagrams to a custom XML format (gzipped by default, to save space), can export diagrams to a number of formats, including EPS, SVG, XFIG, WMF and PNG, and can print diagrams (including ones that span multiple pages). </p>
+    <p xml:lang="zh_CN">它可以加载和保存图表到自定义的 XML 格式（默认用 gzip 压缩以节省空间），可以导出图表为多种格式，包含 EPS、SVG、XFIG、WMF 和 PNG，也可以打印图表（包括跨越多个页面的图表）。</p>
+    <p xml:lang="uk">Програма здатна завантажувати і зберігати діаграми у власному форматі XML (типово, стиснутому за допомогою gzip для заощадження місця на диску), може експортувати діаграми у декількох форматах, включно із EPS, SVG, XFIG, WMF та PNG, і може друкувати діаграми (включно із тими, які займають декілька сторінок).</p>
+    <p xml:lang="tr">Diyagramları özel bir XML biçimine yükleyebilir ve kaydedebilir (yer kazanmak için öntanımlı olarak gzip ile sıkıştırılır), diyagramları EPS, SVG, XFIG, WMF ve PNG dahil olmak üzere bir dizi biçime dışa aktarabilir ve diyagramları (birden çok sayfaya yayılanlar dahil) yazdırabilir.</p>
+    <p xml:lang="sv">Det kan läsa in och spara diagram till ett anpassat XML-format (gzip-komprimerat som standard för att spara utrymme), exportera diagram till ett antal format, inklusive EPS, SVG, XFIG, WMF och PNG, samt kan skriva ut diagram (även sådana som täcker flera sidor).</p>
+    <p xml:lang="sr">Може учитати и сачувати дијаграме у прилагођени ХМЛ формат (подразумевано гзипован, ради уштеде простора), може извозити дијаграме у бројне формате, укључујући ЕПС, СВГ, ХФИГ, ВМФ и ПНГ, и може штампати дијаграме (укључујући и оне на више страница).</p>
+    <p xml:lang="sl">Nalaga in shranjuje lahko diagrame v lastnem zapisu XML (privzeto stisnjen z gzip za manjšo porabo prostora), jih izvozi v številne zapise, med katerimi so EPS, SVG, XFIG, WMF in PNG, ter natisne (tudi tiste, ki se raztezajo čez več strani).</p>
+    <p xml:lang="ru">Может загружать и сохранять диаграммы в специальный формат XML (по умаолчанию сжатый gzip'ом для экономии места), может экспортировать во множество форматов, включающее EPS, SVG, XFIG, WMF и PNG, а так же может печатать диаграммы (в том яисле на нескольких листах).</p>
+    <p xml:lang="ro">Poate încărca și salva diagrame la un format XML personalizat (arhivat gz implicit, pentru a salva spațiu), poate exporta diagramele la un număr de formate, inclusiv EPS, SVG, WMF și PNG, și poate să tipărească diagramele (inclusiv pe cele care ocupă pagini multiple).</p>
+    <p xml:lang="pt_BR">Ele pode carregar e salvar diagramas em um formato XML personalizado (compactado por padrão, para economizar espaço), pode exportar diagramas para vários formatos, incluindo EPS, SVG, XFIG, WMF e PNG, e pode imprimir diagramas (incluindo aqueles que abrangem múltiplas páginas).</p>
+    <p xml:lang="id">Ini dapat memuat dan menyimpan diagram ke format XML ubahan (gzip secara default, untuk menghemat ruang), dapat mengekspor diagram ke sejumlah format, termasuk EPS, SVG, XFIG, WMF, dan PNG, dan dapat mencetak diagram (termasuk yang meliputi beberapa halaman).</p>
+    <p xml:lang="hu">A diagramokat egyéni XML-alapú formátumban tárolja (alapértelmezetten gzip-ppel tömörítve), számos formátumba képes a diagramokat exportálni, köztük EPS-be, SVG-be, XFIG-be, WMF-be és PNG-be, valamint ki is tudja nyomtatni a diagramokat (azokat is, amelyek több laposak).</p>
+    <p xml:lang="eu">Diagramak XML formatu pertsonalizatu batean kargatu eta gordetzen ditu (konprimatuta dago, toki gutxiago bete dezan), hainbat formatutako diagramak esportatu ditzake, besteak beste EPS, SVG, XFIG, WMF eta PNG, eta diagramak inprimatu ditzake (baita orri anitzekoak direnak ere).</p>
+    <p xml:lang="es">Puede cargar y guardar diagramas en un formato XML personalizado (comprimido con gzip, para ahorrar espacio), puede exportar diagramas a varios formatos, incluyendo EPS, SVG, XFIG, WMF y PNG y puede imprimir diagramas (hasta los que tienen varias páginas).</p>
+    <p xml:lang="eo">Ĝi povas ŝargi kaj konservi diagramojn al propra XML-formato (gzipita defaŭlte, por ŝpari spacon), povas elporti diagramojn al kelkaj formatoj, inkluzive de EPS, SVG, XFIG, WMF kaj PNG, kaj povas presi diagramojn (inkluzive de tiuj kiuj ampleksas). pluraj paĝoj).</p>
+    <p xml:lang="el">Μπορεί να φορτώσει και να αποθηκεύσει διαγράμματα σε προσαρμοσμένη μορφή XML (από προεπιλογή gzipped, για εξοικονόμηση χώρου), μπορεί να εξαγάγει διαγράμματα σε διάφορες μορφές, συμπεριλαμβανομένων των EPS, SVG, XFIG, WMF και PNG και μπορεί να εκτυπώσει διαγράμματα (συμπεριλαμβανομένων εκείνων που εκτείνονται πολλαπλές σελίδες).</p>
+    <p xml:lang="da">Det kan indlæse og gemme diagrammer til et tilpasset XML-format (gzippet som standard, for at spare plads), eksportere diagrammer til flere formater herunder EPS, SVG, XFIG, WMF og PNG, og kan udskrive diagrammer (herunder dem der spænder over flere sider).</p>
+    <p xml:lang="cs">Diagramy ukládá a načítá ve vlastním formátu XML (standardně kvůli úspoře místa komprimovaném pomocí gzip). Umí diagramy exportovat do několika formátů, včetně EPS, SVG, XFIG, WMF a PNG a také je vytisknout (včetně takových, které se táhnou přes několik stránek).</p>
+    <p xml:lang="ca">Pot carregar i desar diagrames en un format XML personalitzat (comprimit per defecte per a estalviar espai), pot exportar diagrames a diversos formats, com ara EPS, SVG, XFIG, WMF i PNG, i pot imprimir diagrames (inclús els que abasten diverses pàgines).</p>
+  </description>
+  <screenshots>
+    <screenshot type="default">
+      <image>https://gitlab.gnome.org/GNOME/dia/raw/master/data/screenshots/screenshot1.png</image>
+      <caption>Main Window</caption>
+      <caption xml:lang="zh_CN">主窗口</caption>
+      <caption xml:lang="uk">Головне вікно</caption>
+      <caption xml:lang="tr">Ana Pencere</caption>
+      <caption xml:lang="sv">Huvudfönster</caption>
+      <caption xml:lang="sr">Главни прозор</caption>
+      <caption xml:lang="sl">Glavno okno</caption>
+      <caption xml:lang="ru">Главное окно</caption>
+      <caption xml:lang="ro">Fereastra principală</caption>
+      <caption xml:lang="pt_BR">Janela principal</caption>
+      <caption xml:lang="kk">Басты терезе</caption>
+      <caption xml:lang="id">Jendela Utama</caption>
+      <caption xml:lang="hu">Főablak</caption>
+      <caption xml:lang="fa">پنجرهٔ اصلی</caption>
+      <caption xml:lang="eu">Leiho nagusia</caption>
+      <caption xml:lang="es">Ventana principal</caption>
+      <caption xml:lang="eo">Ĉefa Fenestro</caption>
+      <caption xml:lang="el">Κυρίως παράθυρο</caption>
+      <caption xml:lang="da">Hovedvindue</caption>
+      <caption xml:lang="cs">Hlavní okno</caption>
+      <caption xml:lang="ca">Finestra principal</caption>
+    </screenshot>
+  </screenshots>
+  <url type="homepage">https://wiki.gnome.org/Apps/Dia</url>
+  <url type="bugtracker">https://gitlab.gnome.org/GNOME/dia/issues</url>
+  <url type="donation">http://www.gnome.org/friends/</url>
+  <url type="translate">https://l10n.gnome.org/module/dia/</url>
+  <content_rating type="oars-1.0"/>
+  <provides>
+    <id>dia.desktop</id>
+  </provides>
+  <releases>
+    <release version="0.97.2" date="2011-12-18">
+      <description>
+        <p>Updated translations</p>
+      </description>
+    </release>
+  </releases>
+  <kudos>
+    <!--
+    GNOME Software kudos:
+    https://gitlab.gnome.org/GNOME/gnome-software/blob/master/doc/kudos.md
+    -->
+    <kudo>HiDpiIcon</kudo>
+  </kudos>
+  <developer_name>The GNOME Project</developer_name>
+  <developer_name xml:lang="zh_CN">GNOME 项目</developer_name>
+  <developer_name xml:lang="uk">Проєкт GNOME</developer_name>
+  <developer_name xml:lang="tr">GNOME Projesi</developer_name>
+  <developer_name xml:lang="sv">GNOME-projektet</developer_name>
+  <developer_name xml:lang="sr">Гномов пројекат</developer_name>
+  <developer_name xml:lang="sl">Projekt GNOME</developer_name>
+  <developer_name xml:lang="ru">Проект GNOME Project</developer_name>
+  <developer_name xml:lang="ro">Proiectul GNOME</developer_name>
+  <developer_name xml:lang="pt_BR">O Projeto GNOME</developer_name>
+  <developer_name xml:lang="ne">जिनोम परियोजना</developer_name>
+  <developer_name xml:lang="kk">GNOME жобасы</developer_name>
+  <developer_name xml:lang="ka">პროექტი "GNOME"</developer_name>
+  <developer_name xml:lang="id">Projek GNOME</developer_name>
+  <developer_name xml:lang="hu">A GNOME projekt</developer_name>
+  <developer_name xml:lang="fa">پروژهٔ گنوم</developer_name>
+  <developer_name xml:lang="eu">GNOME proiektua</developer_name>
+  <developer_name xml:lang="es">El Proyecto GNOME</developer_name>
+  <developer_name xml:lang="eo">La GNOME-Projekto</developer_name>
+  <developer_name xml:lang="el">Το έργο GNOME</developer_name>
+  <developer_name xml:lang="da">GNOME-projektet</developer_name>
+  <developer_name xml:lang="cs">Projekt GNOME</developer_name>
+  <developer_name xml:lang="ca">El projecte GNOME</developer_name>
+  <project_group>GNOME</project_group>
+  <update_contact>zbrown@gnome.org</update_contact>
+  <translation type="gettext">dia</translation>
+  <launchable type="desktop-id">org.gnome.Dia.desktop</launchable>
+</component>
