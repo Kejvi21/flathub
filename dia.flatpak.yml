@@ -1,0 +1,26 @@
+app-id: org.gnome.Dia
+runtime: org.gnome.Platform
+runtime-version: "47"
+sdk: org.gnome.Sdk
+command: dia
+finish-args:
+  - --socket=x11
+  - --filesystem=xdg-data/applications
+  - --filesystem=host
+  - --socket=wayland
+modules:
+  - name: xpm-pixbuf
+    buildsystem: meson
+    config-opts: []
+    sources:
+      - type: git
+        url: https://gitlab.gnome.org/ZanderBrown/xpm-pixbuf.git
+        branch: main
+        
+  - name: dia
+    buildsystem: meson
+    config-opts: []
+    sources:
+      - type: git
+        url: https://gitlab.gnome.org/GNOME/dia.git
+        branch: master
